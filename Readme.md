@@ -15,10 +15,10 @@
 ### Timeline:
 |Num| Todo List | Deadline | Status |
 | --- | --- | --- | --- |
-|01| Project Proposal | Sep 14 | Done! |
-|02| Project Milestone | Sep 21 | Done! |
-|03| Presentation | Sep 28 | Done! |
-|04| Final Report | Sep 30 | Done! |
+|01| Project Proposal | Oct 12 | Done! |
+|02| Project Milestone | Oct 31 | Done! |
+|03| Presentation | Nov 17 | Done! |
+|04| Final Report | Dec 03 | Done! |
 
 
 ## Repository info
@@ -35,6 +35,9 @@
     Ridge Linear Regression
     Multi-Layer Perceptron (MLP)
     Support Vector Machine (SVM)
+
+### Results:
+    Contains modeling results
     
 
 
