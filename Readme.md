@@ -30,6 +30,8 @@
     Contains reports
     
 ### Models:
+Please see Machine_Learning_PR.py for model implementation:
+    
     Vanilla Linear Regression
     Lasso Linear Regression
     Ridge Linear Regression
