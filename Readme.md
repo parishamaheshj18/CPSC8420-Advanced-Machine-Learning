@@ -1,4 +1,4 @@
-## CPSC8810 - Advanced Machine Learning
+## CPSC8420 - Advanced Machine Learning
 ### Project Title: 
     On the Assessment of Several Regression-Based Machine Learning Approaches in Runoff Prediction
 
